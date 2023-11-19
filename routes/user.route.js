@@ -9,9 +9,9 @@ import {
   updateUserByemail,
 } from "../services/user.service.js";
 
-// const clienturl = "";
+ const clienturl = "https://prismatic-babka-19ad78.netlify.app/";
 
-const clienturl = "http://localhost:3000";
+//const clienturl = "http://localhost:3000";
 
 const router = express.Router();
 
